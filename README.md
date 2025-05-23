@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I am a results-driven Python developer with five years of experience in designing, developing and deploying robust applications.</h4>
+<h4 align="center">I am a results-driven Python developer with 2+ years of experience in designing, developing and deploying robust applications.</h4>
 
 ###
 
